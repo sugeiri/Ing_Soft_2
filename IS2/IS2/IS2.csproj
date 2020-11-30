@@ -46,6 +46,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Produccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produccion.Designer.cs">
+      <DependentUpon>Produccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipo.Designer.cs">
+      <DependentUpon>Equipo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Material.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Material.Designer.cs">
+      <DependentUpon>Material.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto.Designer.cs">
+      <DependentUpon>Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tipo_equipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tipo_equipo.Designer.cs">
+      <DependentUpon>Tipo_equipo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Categoria.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,13 +94,37 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="gasto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gasto.Designer.cs">
+      <DependentUpon>gasto.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Produccion.resx">
+      <DependentUpon>Produccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipo.resx">
+      <DependentUpon>Equipo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Material.resx">
+      <DependentUpon>Material.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Producto.resx">
+      <DependentUpon>Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tipo_equipo.resx">
+      <DependentUpon>Tipo_equipo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Categoria.resx">
       <DependentUpon>Categoria.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Actividad.resx">
       <DependentUpon>Actividad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gasto.resx">
+      <DependentUpon>gasto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
