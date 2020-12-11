@@ -1,0 +1,17 @@
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.csprojAssemblyReference.cache
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.Form1.resources
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.Produccion.resources
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.Equipo.resources
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.Material.resources
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.Producto.resources
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.Tipo_equipo.resources
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.Categoria.resources
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.Actividad.resources
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.gasto.resources
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.Properties.Resources.resources
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.csproj.GenerateResource.cache
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\bin\Debug\IS2.exe.config
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\bin\Debug\IS2.exe
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\bin\Debug\IS2.pdb
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.exe
+C:\SUGEIRI\utesa\32020\ING SOF 2\Ing_Soft_2\IS2\IS2\obj\Debug\IS2.pdb
