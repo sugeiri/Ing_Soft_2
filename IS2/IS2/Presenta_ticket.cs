@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace IS2
 {
-    public partial class Turno : Form
+    public partial class Presenta_ticket : Form
     {
-        public Turno()
+        public Presenta_ticket()
         {
             InitializeComponent();
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
         }
     }
 }
